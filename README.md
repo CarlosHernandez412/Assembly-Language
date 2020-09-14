@@ -1,2 +1,3 @@
-# Assembly-Language
-Projects I have worked on while taking assembly courses in my Undergrad 
+# Non-zero average calculator 
+code to take an average of non-zero values that have been inputed 
+
